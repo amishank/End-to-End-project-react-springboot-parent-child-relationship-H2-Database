@@ -11,7 +11,11 @@
  6. The first home page provides the details of the transaction service with a server-side paginated value of 2, and it also provides the sum of the total paid amount, i.e., the summation of the paid amount from Installment service with transaction id.
  7. Then click on Total Amount value in the UI table, it will be redirected to the Installment service and provides the details of the paid amount with a transaction Id which is mapped with Transaction Service.  
  
- 
+![image](https://user-images.githubusercontent.com/14995042/136838676-c5fc9591-c0ba-4404-9c7d-db4360b364d9.png)
+
+![image](https://user-images.githubusercontent.com/14995042/136838721-77275ca0-b9ef-4674-989d-988fcfccfc02.png)
+
+
 ## Steps to test backend service :
  
  1. Go to the project path & run the command in the cmd prompt "mvn spring-boot:run"
